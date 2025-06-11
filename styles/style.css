@@ -1,0 +1,44 @@
+.appointment__wr
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.appointment__wr-info
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.appointment__wr-info h2
+{
+    font-family: Geologica;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: 0%;
+    color: #333333;
+    margin-bottom: 48px;
+}
+
+.appointment__wr-info-form-wr
+{
+    display: inline-flex;
+    align-items: center;
+}
+
+.appointment__wr-info-input
+{
+    height: 72px;
+    width: 240px;
+    border: 1px solid #F2F2F2;
+    padding: 24px;
+    margin-bottom: 48px;
+    gap: 24px;
+}
+
+.appointment__wr-info-checkbox
+{
+    color: #F5D547;
+}
