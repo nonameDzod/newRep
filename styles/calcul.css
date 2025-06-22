@@ -1,0 +1,10 @@
+.calcul
+{
+    margin: 0 auto;
+}
+
+.calcul__button
+{
+    padding: 15px;
+    cursor: pointer;
+}
